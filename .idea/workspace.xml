@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1d3a33d-f316-4846-8b9d-0ba4e7db3288" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/EfficientAlghoritms/ExamplesBestTimeToBuyStock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EfficientAlghoritms/ListSplitting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EfficientAlghoritms/Sublists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EfficientAlghoritms/bitString.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DSA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/Hashing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/List sums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/Mode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/Playlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/Rounds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/SET.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/howManyNumbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/Operations.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +30,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2sTeszbqdk7YEPh6BWRnPVedMRp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,6 +43,9 @@
   "keyToString": {
     "Python.Examples.executor": "Run",
     "Python.Operations.executor": "Run",
+    "Python.Playlist.executor": "Run",
+    "Python.SET.executor": "Run",
+    "Python.howManyNumbers.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
